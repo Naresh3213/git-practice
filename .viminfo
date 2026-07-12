@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1783827330,,"wq!"
+|2,0,1783836606,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,22 +25,39 @@
 # Registers:
 
 # File marks:
-'0  2  21  ~/myfile
-|4,48,2,21,1783827330,"~/myfile"
-'1  1  20  ~/myfile
-|4,49,1,20,1783826104,"~/myfile"
+'0  1  0  ~/.gitignore
+|4,48,1,0,1783836606,"~/.gitignore"
+'1  2  21  ~/myfile
+|4,49,2,21,1783827330,"~/myfile"
 '2  1  20  ~/myfile
 |4,50,1,20,1783826104,"~/myfile"
+'3  1  20  ~/myfile
+|4,51,1,20,1783826104,"~/myfile"
 
 # Jumplist (newest first):
+-'  1  0  ~/.gitignore
+|4,39,1,0,1783836606,"~/.gitignore"
+-'  2  21  ~/myfile
+|4,39,2,21,1783827330,"~/myfile"
 -'  2  21  ~/myfile
 |4,39,2,21,1783827330,"~/myfile"
 -'  1  20  ~/myfile
 |4,39,1,20,1783827291,"~/myfile"
 -'  1  20  ~/myfile
+|4,39,1,20,1783827291,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783826104,"~/myfile"
+-'  1  20  ~/myfile
 |4,39,1,20,1783826104,"~/myfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1783836602	0
+	"	1	0
+	^	1	1
+	.	1	1
+	+	1	1
 
 > ~/myfile
 	*	1783827327	0
