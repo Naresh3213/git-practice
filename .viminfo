@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1783836933,,"wq!"
+|2,0,1783837857,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,28 +25,36 @@
 # Registers:
 
 # File marks:
-'0  2  3  ~/.gitignore
-|4,48,2,3,1783836933,"~/.gitignore"
-'1  1  0  ~/.gitignore
-|4,49,1,0,1783836846,"~/.gitignore"
-'2  1  0  ~/.gitignore
-|4,50,1,0,1783836846,"~/.gitignore"
-'3  1  0  ~/.gitognore
-|4,51,1,0,1783836784,"~/.gitognore"
+'0  3  4  ~/.gitignore
+|4,48,3,4,1783837857,"~/.gitignore"
+'1  2  3  ~/.gitignore
+|4,49,2,3,1783836933,"~/.gitignore"
+'2  2  3  ~/.gitignore
+|4,50,2,3,1783836933,"~/.gitignore"
+'3  1  0  ~/.gitignore
+|4,51,1,0,1783836846,"~/.gitignore"
 '4  1  0  ~/.gitignore
-|4,52,1,0,1783836606,"~/.gitignore"
+|4,52,1,0,1783836846,"~/.gitignore"
 '5  1  0  ~/.gitignore
-|4,53,1,0,1783836606,"~/.gitignore"
-'6  2  21  ~/myfile
-|4,54,2,21,1783827330,"~/myfile"
-'7  1  20  ~/myfile
-|4,55,1,20,1783826104,"~/myfile"
-'8  1  20  ~/myfile
-|4,56,1,20,1783826104,"~/myfile"
+|4,53,1,0,1783836846,"~/.gitignore"
+'6  1  0  ~/.gitignore
+|4,54,1,0,1783836846,"~/.gitignore"
+'7  1  0  ~/.gitognore
+|4,55,1,0,1783836784,"~/.gitognore"
+'8  1  0  ~/.gitignore
+|4,56,1,0,1783836606,"~/.gitignore"
+'9  1  0  ~/.gitignore
+|4,57,1,0,1783836606,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  3  4  ~/.gitignore
+|4,39,3,4,1783837857,"~/.gitignore"
+-'  2  3  ~/.gitignore
+|4,39,2,3,1783837844,"~/.gitignore"
 -'  2  3  ~/.gitignore
 |4,39,2,3,1783836933,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1783836914,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1783836914,"~/.gitignore"
 -'  1  0  ~/.gitignore
@@ -59,6 +67,14 @@
 |4,39,1,0,1783836784,"~/.gitognore"
 -'  1  0  ~/.gitognore
 |4,39,1,0,1783836784,"~/.gitognore"
+-'  1  0  ~/.gitognore
+|4,39,1,0,1783836784,"~/.gitognore"
+-'  1  0  ~/.gitognore
+|4,39,1,0,1783836784,"~/.gitognore"
+-'  1  0  ~/.gitognore
+|4,39,1,0,1783836784,"~/.gitognore"
+-'  1  0  ~/.gitognore
+|4,39,1,0,1783836784,"~/.gitognore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1783836606,"~/.gitignore"
 -'  1  0  ~/.gitignore
@@ -95,6 +111,38 @@
 |4,39,2,21,1783827330,"~/myfile"
 -'  2  21  ~/myfile
 |4,39,2,21,1783827330,"~/myfile"
+-'  2  21  ~/myfile
+|4,39,2,21,1783827330,"~/myfile"
+-'  2  21  ~/myfile
+|4,39,2,21,1783827330,"~/myfile"
+-'  2  21  ~/myfile
+|4,39,2,21,1783827330,"~/myfile"
+-'  2  21  ~/myfile
+|4,39,2,21,1783827330,"~/myfile"
+-'  2  21  ~/myfile
+|4,39,2,21,1783827330,"~/myfile"
+-'  2  21  ~/myfile
+|4,39,2,21,1783827330,"~/myfile"
+-'  2  21  ~/myfile
+|4,39,2,21,1783827330,"~/myfile"
+-'  2  21  ~/myfile
+|4,39,2,21,1783827330,"~/myfile"
+-'  2  21  ~/myfile
+|4,39,2,21,1783827330,"~/myfile"
+-'  2  21  ~/myfile
+|4,39,2,21,1783827330,"~/myfile"
+-'  2  21  ~/myfile
+|4,39,2,21,1783827330,"~/myfile"
+-'  2  21  ~/myfile
+|4,39,2,21,1783827330,"~/myfile"
+-'  2  21  ~/myfile
+|4,39,2,21,1783827330,"~/myfile"
+-'  2  21  ~/myfile
+|4,39,2,21,1783827330,"~/myfile"
+-'  2  21  ~/myfile
+|4,39,2,21,1783827330,"~/myfile"
+-'  2  21  ~/myfile
+|4,39,2,21,1783827330,"~/myfile"
 -'  1  20  ~/myfile
 |4,39,1,20,1783827291,"~/myfile"
 -'  1  20  ~/myfile
@@ -127,6 +175,46 @@
 |4,39,1,20,1783827291,"~/myfile"
 -'  1  20  ~/myfile
 |4,39,1,20,1783827291,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783827291,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783827291,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783827291,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783827291,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783827291,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783827291,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783827291,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783827291,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783827291,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783827291,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783827291,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783827291,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783827291,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783827291,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783827291,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783827291,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783826104,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783826104,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783826104,"~/myfile"
+-'  1  20  ~/myfile
+|4,39,1,20,1783826104,"~/myfile"
 -'  1  20  ~/myfile
 |4,39,1,20,1783826104,"~/myfile"
 -'  1  20  ~/myfile
@@ -163,12 +251,13 @@
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	*	1783836930	0
-	"	2	3
-	^	2	4
-	.	2	3
+	*	1783837854	0
+	"	3	4
+	^	3	5
+	.	3	4
 	+	1	5
-	+	2	3
+	+	2	4
+	+	3	4
 
 > ~/.gitognore
 	*	1783836777	0
